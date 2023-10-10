@@ -1,0 +1,19 @@
+{
+  "name": "neuroday",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fontsource/red-hat-display": "^5.0.15",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-iframe": "^1.8.5",
+    "react-intersection-observer": "^9.5.2"
+  }
+}
